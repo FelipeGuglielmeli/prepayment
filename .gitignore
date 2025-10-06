@@ -1,0 +1,34 @@
+.env
+
+prepayment.db
+
+# Ambiente Virtual do Python
+.venv/
+venv/
+env/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pastas de distribuição/build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos de teste e cobertura de código
+.pytest_cache/
+.coverage
+htmlcov/
+
+ProcessadorPrepayments.spec
